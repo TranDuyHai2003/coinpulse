@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb19859a-8ada-4fd4-ac87-36240c806bd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/component/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Converter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/window.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000000264" />
+      <entry key="S30" value="1.0000473413963766" />
+      <entry key="S60" value="1.0100332527745066" />
+      <entry key="M2" value="1.2097089037615467" />
+      <entry key="M5" value="5.372302979963152" />
+      <entry key="M10" value="22.02423357367205" />
+      <entry key="M15" value="40.3230606227192" />
+      <entry key="M30" value="78.98343717732669" />
+      <entry key="H1" value="113.27846910640825" />
+      <entry key="H2" value="136.4569462566839" />
+      <entry key="H4" value="149.98146818102785" />
+      <entry key="D1" value="162.38592573301906" />
+      <entry key="W1" value="164.62374294314017" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.3611804031273813E-148" />
+      <entry key="S5" value="7.151763518731603E-60" />
+      <entry key="S10" value="2.7911117263695867E-30" />
+      <entry key="S30" value="2.082991690969688E-10" />
+      <entry key="S60" value="2.686747005482538E-5" />
+      <entry key="M2" value="0.012465718115868435" />
+      <entry key="M5" value="0.6817747786483798" />
+      <entry key="M10" value="2.996466210241266" />
+      <entry key="M15" value="5.087842138421582" />
+      <entry key="M30" value="8.872838100328451" />
+      <entry key="H1" value="11.860044910785922" />
+      <entry key="H2" value="13.758741373494104" />
+      <entry key="H4" value="14.832535777735524" />
+      <entry key="D1" value="15.798543427199869" />
+      <entry key="W1" value="15.971046892327646" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.510237314700606E-6" />
+      <entry key="MS500" value="0.08110867293369894" />
+      <entry key="S2" value="0.5336626690199799" />
+      <entry key="S5" value="0.7778694754407783" />
+      <entry key="S10" value="0.8819690898443233" />
+      <entry key="S30" value="0.9590451247020485" />
+      <entry key="S60" value="0.9893004100630544" />
+      <entry key="M2" value="1.2110289253625661" />
+      <entry key="M5" value="6.040354273176788" />
+      <entry key="M10" value="24.998187616357352" />
+      <entry key="M15" value="45.3861979912973" />
+      <entry key="M30" value="87.83485379940753" />
+      <entry key="H1" value="125.12411579278042" />
+      <entry key="H2" value="150.20729590949958" />
+      <entry key="H4" value="164.80946767777513" />
+      <entry key="D1" value="178.18366176552527" />
+      <entry key="W1" value="180.59467317925234" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FwO4ceAdqV5LI02lnDLINF2iaQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feat/navigation",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/coinpulse/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "D:\\coinpulse\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coinpulse\public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb19859a-8ada-4fd4-ac87-36240c806bd8" name="Changes" comment="" />
+      <created>1782982475111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782982475111</updated>
+      <workItem from="1782982476025" duration="3119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
