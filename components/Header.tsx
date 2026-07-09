@@ -15,7 +15,7 @@ const Header = () => {
         </Link>
         <nav>
           <Link
-            href="/"
+            href="/public"
             className={cn("nav-link", {
               "is-active": pathname === "/",
               "is-home": true,
