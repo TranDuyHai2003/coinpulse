@@ -1,11 +1,11 @@
 import React from "react";
-import fetcher from "@/lib/coingecko.actions";
 import DataTable from "@/components/DataTable";
 import Link from "next/link";
 import Image from "next/image";
 import { TrendingDown, TrendingUp } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { TrendingCoinsFallback } from "@/components/home/fallback";
+import { fetcher } from "@/lib/coingecko.actions";
 
 const TrendingCoins = async () => {
   let trendingCoins;
