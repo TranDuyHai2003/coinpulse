@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb19859a-8ada-4fd4-ac87-36240c806bd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/DataTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/DataTable.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/TrendingCoins.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/TrendingCoins.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/fallback.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/fallback.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="41" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000869171261961" />
+      <entry key="MS500" value="1.1541065406829758" />
+      <entry key="S2" value="1.6265518616881072" />
+      <entry key="S5" value="1.840494527712364" />
+      <entry key="S10" value="2.095761720126951" />
+      <entry key="S30" value="3.45604590454176" />
+      <entry key="S60" value="6.014901964987705" />
+      <entry key="M2" value="11.136931759902744" />
+      <entry key="M5" value="21.351105859300056" />
+      <entry key="M10" value="40.863358573658886" />
+      <entry key="M15" value="64.26275311964547" />
+      <entry key="M30" value="128.11695530618488" />
+      <entry key="H1" value="223.33951992988764" />
+      <entry key="H2" value="404.1867123021994" />
+      <entry key="H4" value="744.8520207290671" />
+      <entry key="D1" value="1702.1319982442787" />
+      <entry key="W1" value="2026.3827122716432" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.0323334648714433E-12" />
+      <entry key="MS500" value="0.004587742075083711" />
+      <entry key="S2" value="0.2606731490951" />
+      <entry key="S5" value="0.6305006945874863" />
+      <entry key="S10" value="1.023405933788882" />
+      <entry key="S30" value="1.902459113356404" />
+      <entry key="S60" value="2.5851780452227877" />
+      <entry key="M2" value="3.4746681426940174" />
+      <entry key="M5" value="4.921191311420469" />
+      <entry key="M10" value="7.064361265700361" />
+      <entry key="M15" value="8.961947529655609" />
+      <entry key="M30" value="12.930106427627996" />
+      <entry key="H1" value="19.83726851056127" />
+      <entry key="H2" value="35.86469902190042" />
+      <entry key="H4" value="63.29044287077248" />
+      <entry key="D1" value="131.08502260702969" />
+      <entry key="W1" value="152.89154546658295" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.001847795887439369" />
+      <entry key="MS500" value="0.3146657581919877" />
+      <entry key="S2" value="1.2036168600860622" />
+      <entry key="S5" value="1.9495527359365135" />
+      <entry key="S10" value="2.749331666440457" />
+      <entry key="S30" value="5.164056066946973" />
+      <entry key="S60" value="8.471943298973924" />
+      <entry key="M2" value="14.524159451961632" />
+      <entry key="M5" value="26.21882556718516" />
+      <entry key="M10" value="47.885106443339026" />
+      <entry key="M15" value="73.18712434697666" />
+      <entry key="M30" value="141.01908892554584" />
+      <entry key="H1" value="243.15491215475404" />
+      <entry key="H2" value="440.0304101493818" />
+      <entry key="H4" value="808.1221278221608" />
+      <entry key="D1" value="1833.2091085344102" />
+      <entry key="W1" value="2179.2729105465523" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FwO4ceAdqV5LI02lnDLINF2iaQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feat/top-categories&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/coinpulse/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;D:\\coinpulse\\node_modules\\eslint&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\coinpulse\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\coinpulse\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coinpulse\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\coinpulse\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb19859a-8ada-4fd4-ac87-36240c806bd8" name="Changes" comment="" />
+      <created>1782982475111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782982475111</updated>
+      <workItem from="1782982476025" duration="5942000" />
+      <workItem from="1783063748477" duration="2775000" />
+      <workItem from="1783407272241" duration="5813000" />
+      <workItem from="1783492666128" duration="222000" />
+      <workItem from="1783492905922" duration="7560000" />
+      <workItem from="1783566457612" duration="13701000" />
+      <workItem from="1784085493594" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

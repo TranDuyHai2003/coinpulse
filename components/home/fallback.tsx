@@ -73,3 +73,67 @@ export const TrendingCoinsFallback = () => {
     </div>
   );
 };
+
+export const CategoriesFallback = () => {
+  const dummyData = Array.from({ length: 10 }, (_, i) => ({ id: i }));
+
+  const columns: DataTableColumn<{ id: number }>[] = [
+    {
+      header: <div className="h-4 w-16 animate-pulse bg-dark-400 rounded-md" />,
+      cellClassName: "category-cell",
+      cell: () => (
+        <div className="category-skeleton animate-pulse bg-dark-400 rounded-md" />
+      ),
+    },
+    {
+      header: <div className="h-4 w-24 animate-pulse bg-dark-400 rounded-md" />,
+      cellClassName: "top-gainers-cell",
+      cell: () => (
+        <div className="flex gap-1">
+          {[1, 2, 3].map((i) => (
+            <div
+              key={i}
+              className="coin-skeleton animate-pulse bg-dark-400 rounded-full"
+            />
+          ))}
+        </div>
+      ),
+    },
+    {
+      header: <div className="h-4 w-20 animate-pulse bg-dark-400 rounded-md" />,
+      cellClassName: "change-header-cell",
+      cell: () => (
+        <div className="price-change">
+          <div className="change-icon animate-pulse bg-dark-400" />
+          <div className="value-skeleton-sm animate-pulse bg-dark-400 rounded-md" />
+        </div>
+      ),
+    },
+    {
+      header: <div className="h-4 w-20 animate-pulse bg-dark-400 rounded-md" />,
+      cellClassName: "market-cap-cell",
+      cell: () => (
+        <div className="value-skeleton-md animate-pulse bg-dark-400 rounded-md" />
+      ),
+    },
+    {
+      header: <div className="h-4 w-20 animate-pulse bg-dark-400 rounded-md" />,
+      cellClassName: "volume-cell",
+      cell: () => (
+        <div className="value-skeleton-lg animate-pulse bg-dark-400 rounded-md" />
+      ),
+    },
+  ];
+
+  return (
+    <div id="categories-fallback">
+      <h4>Categories</h4>
+      <DataTable
+        data={dummyData}
+        columns={columns}
+        rowKey={(row) => row.id}
+        tableClassName="mt-3"
+      />
+    </div>
+  );
+};
